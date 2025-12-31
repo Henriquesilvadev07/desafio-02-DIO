@@ -53,9 +53,9 @@ public class ProcessoSeletivo {
             }
         } catch (Exception e) {
             System.out.println("Verifique se não deixou informação em branco ou se usou apenas caracteres numericos nas opções,idades e pretenção");
-            // TODO: handle exception
         }
 
 
     }
 }
+
